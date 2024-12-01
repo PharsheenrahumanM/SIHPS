@@ -18,6 +18,8 @@ The goal of the Alumni Association Platform is to create a dynamic and interacti
 
 
 ## Use Cases
+![images (3](https://github.com/user-attachments/assets/2c447ede-b7fd-4576-9487-676fab993366)
+
 1.Alumni Registration and Profile Update:
 Actors: Alumni, Admin
 Description: Alumni register on the platform and create/update their profiles to connect with their peers. They can provide information about their career, interests, and achievements.
