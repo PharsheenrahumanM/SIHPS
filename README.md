@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:01/12/24
+## Register Number:24006746
+## Name:PHARSHEEN RAHUMAN M
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
