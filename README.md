@@ -13,55 +13,8 @@ Government of Gujarat
 The goal of the Alumni Association Platform is to create a dynamic and interactive ecosystem where alumni, current students, and the institution can connect, collaborate, and grow. The platform will offer a range of functionalities including networking, job opportunities, mentorship, event management, donations, success story tracking, and feedback mechanisms. By integrating both web and mobile applications, the platform will enhance engagement, promote professional development, and encourage alumni contributions to the institution.
 
 ## Proposed Solution / Architecture Diagram
-+----------------------------------------------------------+
-|                 Alumni Mobile/Web App                    |
-|       (React.js for Web, Flutter/Dart for Mobile)        |
-|                                                          |
-|  - Alumni Profile Management                              |
-|  - Job Search and Posting                                 |
-|  - Event Registration and Updates                         |
-|  - Success Story Viewing                                  |
-|  - Donations and Payment Integration                      |
-+----------------------------------------------------------+
-                       |
-                       v
-+----------------------------------------------------------+
-|                     Backend (Node.js & GraphQL)          |
-|    (Handles API Requests, User Authentication,           |
-|    and Interacts with Database and AI Engine)             |
-|                                                          |
-|  - Handles frontend requests from Web/Mobile Apps         |
-|  - Manages alumni profiles, job posts, events, donations  |
-|  - User authentication and authorization                  |
-|  - API layer to interact with AI Engine and database      |
-+----------------------------------------------------------+
-                       |
-                       v
-+----------------------------------------------------------+
-|                      AI Engine                           |
-|    (Job Matching, Mentorship Pairing, Event Recommender)  |
-|                                                          |
-|  - AI-powered matchmaking for jobs, mentors, and events   |
-|  - Analyzes alumni profiles and career information        |
-|  - Suggests relevant connections and opportunities        |
-+----------------------------------------------------------+
-                       |
-                       v
-+----------------------------------------------------------+
-|                    Data Layer (Database)                 |
-|  (MongoDB/PostgreSQL for Alumni Profiles, Events, Jobs)   |
-|                                                          |
-|  - Stores alumni profiles, job postings, events, success stories |
-|  - Structured data like donations and survey responses    |
-+----------------------------------------------------------+
-                       |
-                       v
-+----------------------------------------------------------+
-|          Third-Party Integrations (Payment, Email, SMS)  |
-|  - Stripe/PayPal for Donation Payments                    |
-|  - SendGrid/Twilio for Notifications (Email/SMS)          |
-+----------------------------------------------------------+
 
+![images](https://github.com/user-attachments/assets/d314d0db-ef69-4e82-a4a1-8178fb09d098)
 
 
 ## Use Cases
